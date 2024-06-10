@@ -1,3 +1,13 @@
+---
+# -- ARCHIVED --
+
+This repo is archived and no longer maintained.
+The current recomendation is to use [Winston Logger](https://github.com/winstonjs/winston) for TypeScript projects.
+
+
+---
+
+
 # lambda-starter
 
 A starting pattern for lambda logging in AWS in Typescript 
