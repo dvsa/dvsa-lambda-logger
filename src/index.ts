@@ -1,4 +1,1 @@
-
-// Logger index
-export class BaseLogger {
-}
+export * from './baseLogger';
